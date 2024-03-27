@@ -1,0 +1,3 @@
+2024/03/16 12:49:26 [!] 2 errors occurred:
+        * WordList (-w): Must be specified (use `-w -` for stdin)
+        * Url/Domain (-u): Must be specified

@@ -1,0 +1,16 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-03-22 20:58 IST
+Nmap scan report for 10.129.246.250
+Host is up (0.36s latency).
+Not shown: 996 closed ports
+PORT      STATE    SERVICE VERSION
+21/tcp    open     ftp     vsftpd 3.0.3
+80/tcp    open     http    Apache httpd 2.4.41 ((Ubuntu))
+|_http-server-header: Apache/2.4.41 (Ubuntu)
+|_http-title: Smash - Bootstrap Business Template
+843/tcp   filtered unknown
+16018/tcp filtered unknown
+Service Info: OS: Unix
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 159.69 seconds
+

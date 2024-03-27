@@ -1,0 +1,18 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-03-17 10:42 IST
+Nmap scan report for 10.129.202.182
+Host is up (0.32s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE VERSION
+3306/tcp open  mysql   MySQL 5.5.5-10.3.27-MariaDB-0+deb10u1
+|_mysql-info: ERROR: Script execution failed (use -d to debug)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1607.72 seconds
+aseTableColumn, Speaks41ProtocolOld, LongColumnFlag, Support41Auth, ConnectWithDatabase, InteractiveClient, Speaks41ProtocolNew, SupportsLoadDataLocal, ODBCClient, SupportsMultipleStatments, SupportsAuthPlugins, SupportsMultipleResults
+|   Status: Autocommit
+|   Salt: k/CEmw/,'~gj^v
+|_  Auth Plugin Name: mysql_native_password
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 260.15 seconds
+
